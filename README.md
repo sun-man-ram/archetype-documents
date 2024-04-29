@@ -19,3 +19,6 @@ Features available for the Driver
 4)SOS to emergency contacts 
 <br>
 
+<b>
+  Coming to the code part kottagattu is still working on enhancing the application to work  cross platform 😅 and to have it on smart watch so cant disclose because according to him its proprietary code :)
+</b>
